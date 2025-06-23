@@ -27,12 +27,12 @@ A classic Python game where a user plays against the computer.
 
 
 ## 📽️ Video Demos
-Coming soon – video demos will be posted on [LinkedIn](www.linkedin.com/in/ayush-gupta-8943a7328) and tagged with `#codsoft`, `#internship`.
+Coming soon – video demos will be posted on [LinkedIn](https://www.linkedin.com/in/ayush-gupta-8943a7328/) and tagged with `#codsoft`, `#internship`.
 
 
 
 ## 📫 Contact
 For any queries or collaboration, feel free to reach out:
 - Email: ayush2006gupta@gmail.com
-- LinkedIn: [Ayush Gupta](www.linkedin.com/in/ayush-gupta-8943a7328)
+- LinkedIn: [Ayush Gupta](https://www.linkedin.com/in/ayush-gupta-8943a7328/)
 
