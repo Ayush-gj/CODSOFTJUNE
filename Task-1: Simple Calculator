@@ -1,0 +1,29 @@
+def calculator():
+    print("Task-1: Basic Calculator")
+    print("Type 'Finish' to stop the work.\n")
+
+    while True:
+        operator = input("Choose operation (+, -, *, /) or 'Finish' to quit: ")
+
+        if operator == 'Finish':
+            print("Thanks for using the calculator.")
+            break
+
+        number1 = float(input("Enter first number: "))
+        number2 = float(input("Enter second number: "))
+
+        if operator == '+':
+            print("Result:", number1 + number2)
+        elif operator == '-':
+            print("Result:", number1 - number2)
+        elif operator == '*':
+            print("Result:", number1 * number2)
+        elif operator == '/':
+            if number2 != 0:
+                print("Result:", number1 / number2)
+            else:
+                print("Error: Cannot divide by zero.")
+        else:
+            print("Invalid operator. Please try again.")
+
+calculator()
