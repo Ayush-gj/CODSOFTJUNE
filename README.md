@@ -8,8 +8,8 @@ This repository contains my task submissions for the **CodSoft Python Programmin
 | Task No. | Task Name             | Status | Link |
 |----------|-----------------------|--------|------|
 | Task 1   | Calculator             | ✅ Done | [View Code](https://github.com/Ayush-gj/CODSOFTJUNE/blob/main/Task-1%3A%20Simple%20Calculator) |
-| Task 2   | Password Generator     | ✅ Done | [View Code]() |
-| Task 3   | Rock-Paper-Scissors    | ✅ Done | [View Code](https://github.com/Ayush-gj/CODSOFTJUNE/blob/main/Task-2%3A%20Rock-Paper-Scissors%20Game) |
+| Task 2   | Rock-Paper-Scissors    | ✅ Done | [View Code](https://github.com/Ayush-gj/CODSOFTJUNE/blob/main/Task-2%3A%20Rock-Paper-Scissors%20Game) |
+| Task 3   | Password Generator     | ✅ Done | [View Code]() |
 
 
 
